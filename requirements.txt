@@ -8,4 +8,6 @@ nltk
 numpy
 wave
 ffmpeg-python
+speechrecognition
+pyAudioAnalysis
 
