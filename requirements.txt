@@ -13,4 +13,4 @@ pyAudioAnalysis
 scipy
 tokenizers 
 requests
-sklearn
+scikit-learn
