@@ -13,3 +13,4 @@ pyAudioAnalysis
 scipy
 tokenizers 
 requests
+sklearn
