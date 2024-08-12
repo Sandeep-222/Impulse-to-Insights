@@ -10,4 +10,6 @@ wave
 ffmpeg-python
 speechrecognition
 pyAudioAnalysis
-
+scipy
+tokenizers 
+requests
