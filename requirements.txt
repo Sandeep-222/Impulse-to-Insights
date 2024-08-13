@@ -16,3 +16,5 @@ requests
 scikit-learn
 hmmlearn
 matplotlib
+eyeD3
+
