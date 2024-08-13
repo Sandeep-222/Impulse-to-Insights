@@ -17,4 +17,4 @@ scikit-learn
 hmmlearn
 matplotlib
 eyeD3
-
+imbalanced-learn
