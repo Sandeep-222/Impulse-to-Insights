@@ -1,0 +1,1 @@
+Impulse to Insights is a web application that converts audio files into transcribed text and provides a summarized version of the content. This project leverages advanced speech-to-text technology and natural language processing to streamline audio content processing.
