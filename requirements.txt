@@ -19,3 +19,4 @@ matplotlib
 eyeD3
 imbalanced-learn
 plotly
+PyTorch
